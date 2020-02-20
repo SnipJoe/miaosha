@@ -3,7 +3,6 @@ package com.miaoshaproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -11,15 +10,14 @@ import org.springframework.web.bind.annotation.RestController;
  * Hello world!
  *
  */
-@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
-//@EnableAutoConfiguration
+@EnableAutoConfiguration
 @RestController
 
 public class App {
 
     @RequestMapping("/")
     public String home(){
-        return "hello World!";
+        return "hello World1!";
     }
     public static void main( String[] args) {
 
