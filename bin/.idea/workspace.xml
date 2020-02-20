@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d1b9c1-f36b-46ca-82c0-a97a21a887e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven2" />
+        <option name="updateIndicesOnProjectOpen" value="false" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UmoezJSwW5P3w507hqbDiDVUQG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Maven.mybatis-generator">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.miaoshaproject.App" />
+      <module name="miaosha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miaoshaproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="miaosha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.miaoshaproject.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Maven.mybatis-generator" />
+      <item itemvalue="Spring Boot.App" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showModules" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d1b9c1-f36b-46ca-82c0-a97a21a887e3" name="Default Changelist" comment="" />
+      <created>1575971231096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575971231096</updated>
+      <workItem from="1575971235779" duration="5281000" />
+      <workItem from="1575976654251" duration="320000" />
+      <workItem from="1575977004439" duration="617000" />
+      <workItem from="1576144752902" duration="3865000" />
+      <workItem from="1580026538852" duration="387000" />
+      <workItem from="1581303071665" duration="2827000" />
+      <workItem from="1581307617823" duration="15044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="42" key="#Console" timestamp="1581409924899">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="240" y="42" key="#Console/0.23.1280.707@0.23.1280.707" timestamp="1581409924899" />
+    <state x="240" y="65" key="#Project_Structure" timestamp="1581304442495">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1581304442495" />
+    <state x="209" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581394245928">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.709@0.23.1280.709" timestamp="1575971399321" />
+    <state x="209" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.710@0.23.1280.710" timestamp="1581394245928" />
+    <state x="100" y="123" width="1080" height="507" key="DiffContextDialog" timestamp="1581410345387">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="100" y="123" width="1080" height="507" key="DiffContextDialog/0.23.1280.707@0.23.1280.707" timestamp="1581410345387" />
+    <state width="1238" height="243" key="GridCell.Tab.0.bottom" timestamp="1581410345345">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581307240175" />
+    <state width="1238" height="243" key="GridCell.Tab.0.bottom/0.23.1280.707@0.23.1280.707" timestamp="1581410345345" />
+    <state width="1238" height="243" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1581407948449" />
+    <state width="1133" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1575976625414" />
+    <state width="1238" height="243" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1581394255863" />
+    <state width="1162" height="262" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1581388018029" />
+    <state width="1238" height="243" key="GridCell.Tab.0.center" timestamp="1581410345343">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1581307240172" />
+    <state width="1238" height="243" key="GridCell.Tab.0.center/0.23.1280.707@0.23.1280.707" timestamp="1581410345343" />
+    <state width="1238" height="243" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1581407948448" />
+    <state width="1133" height="175" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1575976625413" />
+    <state width="1238" height="243" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1581394255862" />
+    <state width="1162" height="262" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1581388018027" />
+    <state width="1238" height="243" key="GridCell.Tab.0.left" timestamp="1581410345341">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1581307240171" />
+    <state width="1238" height="243" key="GridCell.Tab.0.left/0.23.1280.707@0.23.1280.707" timestamp="1581410345341" />
+    <state width="1238" height="243" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1581407948448" />
+    <state width="1133" height="175" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1575976625398" />
+    <state width="1238" height="243" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1581394255862" />
+    <state width="1162" height="262" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1581388018026" />
+    <state width="1238" height="243" key="GridCell.Tab.0.right" timestamp="1581410345344">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1581307240174" />
+    <state width="1238" height="243" key="GridCell.Tab.0.right/0.23.1280.707@0.23.1280.707" timestamp="1581410345344" />
+    <state width="1238" height="243" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1581407948449" />
+    <state width="1133" height="175" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1575976625413" />
+    <state width="1238" height="243" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1581394255863" />
+    <state width="1162" height="262" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1581388018027" />
+    <state width="1238" height="175" key="GridCell.Tab.1.bottom" timestamp="1581307551517">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581307240178" />
+    <state width="1238" height="175" key="GridCell.Tab.1.bottom/0.23.1280.707@0.23.1280.707" timestamp="1581307551517" />
+    <state width="1238" height="175" key="GridCell.Tab.1.center" timestamp="1581307551516">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1581307240176" />
+    <state width="1238" height="175" key="GridCell.Tab.1.center/0.23.1280.707@0.23.1280.707" timestamp="1581307551516" />
+    <state width="1238" height="175" key="GridCell.Tab.1.left" timestamp="1581307551516">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1581307240175" />
+    <state width="1238" height="175" key="GridCell.Tab.1.left/0.23.1280.707@0.23.1280.707" timestamp="1581307551516" />
+    <state width="1238" height="175" key="GridCell.Tab.1.right" timestamp="1581307551516">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1581307240177" />
+    <state width="1238" height="175" key="GridCell.Tab.1.right/0.23.1280.707@0.23.1280.707" timestamp="1581307551516" />
+    <state x="156" y="23" width="997" height="708" key="SettingsEditor" timestamp="1581408512056">
+      <screen x="0" y="23" width="1280" height="708" />
+    </state>
+    <state x="156" y="23" width="1117" height="707" key="SettingsEditor/0.23.1280.707@0.23.1280.707" timestamp="1581308813585" />
+    <state x="156" y="23" width="997" height="708" key="SettingsEditor/0.23.1280.708@0.23.1280.708" timestamp="1581408512056" />
+    <state x="141" y="72" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1581308622088">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="141" y="72" key="com.intellij.javaee.MapExternalResourceDialog/0.23.1280.707@0.23.1280.707" timestamp="1581308622088" />
+    <state x="17" y="74" key="new project wizard" timestamp="1581395212859">
+      <screen x="0" y="23" width="1280" height="708" />
+    </state>
+    <state x="17" y="74" key="new project wizard/0.23.1280.708@0.23.1280.708" timestamp="1581395212859" />
+    <state x="314" y="180" key="run.anything.popup" timestamp="1575972762544">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="314" y="180" key="run.anything.popup/0.23.1280.709@0.23.1280.709" timestamp="1575972762544" />
+    <state x="148" y="122" width="981" height="677" key="search.everywhere.popup" timestamp="1581409014712">
+      <screen x="0" y="23" width="1280" height="708" />
+    </state>
+    <state x="305" y="54" width="670" height="676" key="search.everywhere.popup/0.23.1280.707@0.23.1280.707" timestamp="1581408601386" />
+    <state x="148" y="122" width="981" height="677" key="search.everywhere.popup/0.23.1280.708@0.23.1280.708" timestamp="1581409014712" />
+  </component>
+</project>
